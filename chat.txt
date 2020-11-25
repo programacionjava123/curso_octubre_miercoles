@@ -1,1 +1,3 @@
 HOLA!! ESTO ES UN ARCHIVO DE CHAT
+
+Hoy es miércoles!!
