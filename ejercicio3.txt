@@ -1,0 +1,18 @@
+19:19:06	 From Angel Chacón : Comentaste el titulo
+19:19:15	 From Angel Chacón : Por eso no pasa
+19:28:48	 From Julieta : se lo puede instanciar a DocusignLandinPage fuera del test?
+19:45:47	 From Marta : Siempre los métodos tienen que escribirse en ingles?
+19:46:40	 From Marta : ok entiendo
+19:46:51	 From Marta : gracias
+19:55:17	 From Mariana Perdomo : Siempre es aconsejable usar el patrón pom?
+19:56:55	 From Mariana Perdomo : si, esa es otra duda que tengo, cómo se implementa realmente el robot. O sea, como se ejecutan nuestros test
+19:57:45	 From Mariana Perdomo : si, lo conozco
+19:57:57	 From Mariana Perdomo : ok, se ejecuta un build entonces
+19:58:10	 From Mariana Perdomo : Gracias
+20:13:22	 From Roman : No se escucha
+20:25:41	 From Marta : se recomienda que en la clase padre el driver sea atributo protected?
+20:26:36	 From Roman : tenes un Proyecto real para ver?
+20:28:45	 From Marta : gracias
+20:32:33	 From Melina Rosell : como se hace para correr el mismo test en diferentes navegadores 
+20:39:10	 From Melina Rosell : gracias
+20:39:14	 From Angel Chacón : Gerkhin esta en el modulo 2?
